@@ -1,0 +1,25 @@
+{
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm ci",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "public": true,
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "env": [
+    "NEXT_PUBLIC_MONGODB_URI",
+    "BETTER_AUTH_SECRET",
+    "BETTER_AUTH_URL",
+    "NEXT_PUBLIC_GOOGLE_CLIENT_ID",
+    "GOOGLE_CLIENT_SECRET",
+    "NEXT_PUBLIC_API_URL",
+    "NEXT_PUBLIC_JSON_SERVER_URL"
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/"
+    }
+  ]
+}
