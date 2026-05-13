@@ -26,7 +26,7 @@ export default function AllTilesPage() {
       {
         id: 'tile_001',
         title: 'Ceramic Blue Tile',
-        image: 'https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=400&h=400&fit=crop',
+        image: 'https://picsum.photos/400/400?random=1',
         price: 45.99,
         category: 'ceramic',
         description: 'Premium ceramic tile with blue glaze finish',
@@ -34,7 +34,7 @@ export default function AllTilesPage() {
       {
         id: 'tile_002',
         title: 'Modern Geometric Pattern',
-        image: 'https://images.unsplash.com/photo-1576673699887-3bdda6dcc246?w=400&h=400&fit=crop',
+        image: 'https://picsum.photos/400/400?random=2',
         price: 55.99,
         category: 'modern',
         description: 'Contemporary geometric design',
@@ -42,7 +42,7 @@ export default function AllTilesPage() {
       {
         id: 'tile_003',
         title: 'Marble Elegance',
-        image: 'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=400&h=400&fit=crop',
+        image: 'https://picsum.photos/400/400?random=3',
         price: 65.99,
         category: 'marble',
         description: 'Luxurious marble-effect',
@@ -50,7 +50,7 @@ export default function AllTilesPage() {
       {
         id: 'tile_004',
         title: 'Minimalist Monochrome',
-        image: 'https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=400&h=400&fit=crop',
+        image: 'https://picsum.photos/400/400?random=4',
         price: 35.99,
         category: 'minimalist',
         description: 'Simple elegant design',
@@ -58,7 +58,7 @@ export default function AllTilesPage() {
       {
         id: 'tile_005',
         title: 'Terracotta Classic',
-        image: 'https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=400&h=400&fit=crop',
+        image: 'https://picsum.photos/400/400?random=5',
         price: 40.99,
         category: 'classic',
         description: 'Traditional terracotta styling',
@@ -66,7 +66,7 @@ export default function AllTilesPage() {
       {
         id: 'tile_006',
         title: 'Rustic Charm',
-        image: 'https://images.unsplash.com/photo-1576673699887-3bdda6dcc246?w=400&h=400&fit=crop',
+        image: 'https://picsum.photos/400/400?random=6',
         price: 50.99,
         category: 'rustic',
         description: 'Rustic textured finish',

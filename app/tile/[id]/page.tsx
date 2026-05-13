@@ -29,7 +29,7 @@ export default function TileDetailsPage() {
     const mockTile: TileDetail = {
       id: id as string,
       title: 'Premium Ceramic Blue Tile',
-      image: 'https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=800&h=800&fit=crop',
+      image: 'https://picsum.photos/800/800?random=1',
       price: 45.99,
       description:
         'This premium ceramic tile features a beautiful blue glaze finish that brings elegance and sophistication to any space. Each tile is carefully handcrafted to ensure the highest quality and durability. Perfect for kitchens, bathrooms, or accent walls.',
